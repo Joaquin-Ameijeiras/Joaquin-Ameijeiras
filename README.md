@@ -74,9 +74,6 @@
 
   ## 📊 &nbsp;My activities
   <a href="https://github.com/Joaquin-Ameijeiras">
-    <img width=450 height=170 align="center" alt="Joaquin-Ameijeiras" src="https://github-readme-stats.vercel.app/api?username=Joaquin-Ameijeiras&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Joaquin-Ameijeiras">
     <img align="center" alt="Joaquin-Ameijeiras" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaquin-Ameijeiras&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
