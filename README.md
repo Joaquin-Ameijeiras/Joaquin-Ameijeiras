@@ -43,7 +43,7 @@
 
   ## 📚 &nbsp;Currently studying
 
-  - C++
+  - C
   - Java
   - SQL
 
