@@ -88,16 +88,6 @@
 
 </div>
 
-
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
-
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
-<!-- ## 📚 &nbsp;My Projects -->
-
-
 ------
 
-Last Edited on: 06/03/2024
+Last Edited on: 1/7/2024
