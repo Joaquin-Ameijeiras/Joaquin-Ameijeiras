@@ -15,7 +15,7 @@
   - 📚 Programmer student at Universidad Tecnológica Nacional (UTN).
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
 
-  - 🌱  I’m always studying **JavaScript**, **PHP**, **ReactJS**, **NodeJS**, **Java** and **C++**.
+  - 🌱  I’m always studying **JavaScript**, **PHP**, **ReactJS**, **NodeJS**, **Java** and **C**.
 
   - 💬 Ask me about **any technology**.
 
